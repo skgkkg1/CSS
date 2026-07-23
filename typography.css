@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400..800&display=swap');
+
+/* heading font family set  */
+/* group selector  */
+h1,h2,h3,h4,h5,h6{
+    font-family: "Sen", sans-serif !important;
+}
+.box{
+    background-color: pink;
+}
+.box p{
+    font-size: 30px;
+    font-weight: normal;
+    color: red;
+    line-height: 1.5;
+    text-align: left;
+    text-indent: 120px;
+    /* letter-spacing:20px; */
+    /* word-spacing:20px; */
+}
+.box h1{
+    color: green;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+}

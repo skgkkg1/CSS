@@ -1,0 +1,31 @@
+.box{
+    width: 500px;
+    background-color: lightblue;
+
+    /* padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px; */
+
+
+    /* top right bootom left  */
+    /* padding: 50px 50px 50px 50px; */
+
+    /* padding: 50px; */
+
+
+    /* top/bottom   right/left */
+
+    padding: 100px 10px;
+border-width: 10px;
+border-style: solid;/*dotted */
+border-color: red green blue yellow;
+box-sizing: border-box;  /* box sizing is important*/
+
+
+/* short hand property  */
+
+/* border: 10px solid red; */
+
+
+}
